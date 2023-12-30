@@ -1,0 +1,27 @@
+
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
+Q
+!data/src/main/AndroidManifest.xml,f/a/fa20ad08e770fe0392ec3df5be8c6bde6c35d607
+c
+3domain/src/main/java/com/winthan/domain/Resource.kt,9/d/9d1e4f681532bd33b60e99febd8d42fd1402a307
+C
+settings.gradle.kts,7/4/749edfcc96398253e5b3416184e95c46621da850
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+`
+0app/src/main/java/com/winthan/moviesample/App.kt,b/a/ba75d834f1068b20384ea1da5cf2facd18bf1761
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+m
+=app/src/main/java/com/winthan/moviesample/di/NetworkModule.kt,4/a/4adf549ec7593f8eed8f85229f712c0f09234896
+p
+@app/src/main/java/com/winthan/moviesample/di/RepositoryModule.kt,b/c/bcbd3115d8a5378b5c6197c355b8067e6e1967e0
+l
+<data/src/main/java/com/winthan/data/response/dto/DatesDto.kt,b/6/b6d71422f7ae08cf38dd9bdcb6d6da2f4f722aea
+G
+domain/build.gradle.kts,d/7/d72c8b69b8da0b3b02b699ccd509295dbd783baa
+E
+data/build.gradle.kts,9/f/9f5470ef43fd1acab01d54a63bdece9a90dec1b7
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
